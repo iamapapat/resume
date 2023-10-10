@@ -1,0 +1,32 @@
+.LGBG{
+  	background-image: url("../images/img_0355.jpg");
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.custom-toggler {
+  background-color: gray;
+}
+
+.font-th-h {
+	font-family: 'Mitr', sans-serif;
+}
+
+.font-th-b {
+	font-family: 'Prompt', sans-serif;
+}
+
+.font-th-b2 {
+	font-family: 'Pridi', serif;
+}
+
+.font-eng-h {
+font-family: 'Mitr', sans-serif;
+}
+
+.font-name {
+font-family: 'Varela Round', sans-serif;
+}
